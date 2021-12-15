@@ -103,10 +103,6 @@ body {
   animation: up 3s 0.3s infinite;
 }
 
-.grid:nth-child(1) .cell:nth-child(59) {
-  color: white;
-  animation: up 3s 0.3s infinite;
-}
 
 .grid:nth-child(1) .cell:nth-child(60) {
   color: white;
