@@ -1,0 +1,318 @@
+body {
+  margin: 0;
+  background-color: #1d1f20;
+}
+
+.container {
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.grid {
+  width: 330px;
+  height: 330px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.cell {
+  box-sizing: border-box;
+  width: 30px;
+  height: 30px;
+  background: white;
+  color: #f62a65;
+  border-radius: 50%;
+  margin: 3px;
+  transform: scale(0.1);
+}
+
+.grid:nth-child(1) .cell:nth-child(11) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(20) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(29) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(38) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(47) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(56) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(14) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(23) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(32) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(41) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(50) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(57) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(58) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(59) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(60) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(61) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(17) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(26) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(35) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(44) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(53) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(1) .cell:nth-child(62) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(12) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(13) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(15) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(16) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(20) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(21) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(22) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(23) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(24) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(25) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(26) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(29) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(30) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(31) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(32) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(33) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(34) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(35) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(39) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(40) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(41) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(42) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(43) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(49) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(50) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(51) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(2) .cell:nth-child(59) {
+  animation: up 3s infinite;
+}
+
+.grid:nth-child(3) .cell:nth-child(12) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(3) .cell:nth-child(21) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(3) .cell:nth-child(30) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(3) .cell:nth-child(39) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(3) .cell:nth-child(48) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(3) .cell:nth-child(57) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(3) .cell:nth-child(58) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(3) .cell:nth-child(59) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(3) .cell:nth-child(60) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+.grid:nth-child(3) .cell:nth-child(61) {
+  color: white;
+  animation: up 3s 0.3s infinite;
+}
+
+@keyframes up {
+  30% {
+    background-color: currentColor;
+    transform: scale(1);
+  }
+  80% {
+    background: white;
+    transform: scale(0.1);
+  }
+}
